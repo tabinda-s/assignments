@@ -1,0 +1,177 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         6
+	Longest value:         7 characters
+	Most common values:    None (11x)
+	                       B001285 (1x)
+	                       J000174 (1x)
+	                       M001143 (1x)
+	                       P000591 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         13
+	Longest value:         30 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (3x)
+	                       COMMITTEE ON WAYS AND MEANS (2x)
+	                       OFFICE OF THE SPEAKER (1x)
+	                       OFFICE OF THE MINORITY LEADER (1x)
+	                       SERGEANT AT ARMS (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (16x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         28 characters
+	Most common values:    GENERAL EXPENDITURES (6x)
+	                       OFFICIAL EXPENSES OF MEMBERS (5x)
+	                       ADMIN AND OPS (3x)
+	                       NON - PERSONNEL (1x)
+	                       APPROPRIATIONS COMMITTEE (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (16x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         12
+	Smallest value:        2017-01-05
+	Largest value:         2017-03-30
+	Most common values:    2017-02-27 (3x)
+	                       2017-01-13 (2x)
+	                       2017-01-19 (2x)
+	                       2017-01-09 (1x)
+	                       2017-02-03 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (16x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         14
+	Longest value:         8 characters
+	Most common values:    906775 (3x)
+	                       E0476005 (1x)
+	                       E0484046 (1x)
+	                       900787 (1x)
+	                       912405 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         29 characters
+	Most common values:    HAGUE QUALITY WATER OF MD INC (5x)
+	                       DEER PARK (5x)
+	                       WATERLOGIC EAST LLC (3x)
+	                       QUENCH (1x)
+	                       CRYSTAL SPRINGS (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         10
+	Smallest value:        2016-11-01
+	Largest value:         2017-02-28
+	Most common values:    2017-01-01 (5x)
+	                       2017-01-31 (3x)
+	                       2017-01-03 (1x)
+	                       2017-02-01 (1x)
+	                       2016-12-31 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         8
+	Smallest value:        2016-11-30
+	Largest value:         2019-01-01
+	Most common values:    2017-12-31 (6x)
+	                       2017-01-31 (3x)
+	                       2018-12-31 (2x)
+	                       2016-12-31 (1x)
+	                       2017-02-28 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         5 characters
+	Most common values:    WATER (16x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         15
+	Smallest value:        1,019.43
+	Largest value:         4,158
+	Sum:                   29,198.36
+	Mean:                  1,824.898
+	Median:                1,499.17
+	StDev:                 1,006.463
+	Most common values:    1,512 (2x)
+	                       3,780 (1x)
+	                       4,158 (1x)
+	                       1,486.34 (1x)
+	                       1,369.41 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2,016
+	Largest value:         2,019
+	Sum:                   32,274
+	Mean:                  2,017.125
+	Median:                2,017
+	StDev:                 0.719
+	Most common values:    2,017 (11x)
+	                       2,016 (2x)
+	                       2,018 (2x)
+	                       2,019 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         29 characters
+	Most common values:    HAGUE QUALITY WATER OF MD INC (5x)
+	                       DEER PARK (5x)
+	                       WATERLOGIC EAST LLC (3x)
+	                       QUENCH (1x)
+	                       CRYSTAL SPRINGS (1x)
+
+Row count: 16

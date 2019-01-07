@@ -1,0 +1,1 @@
+This output file contains a list of 'Personnel Compensation' that was greater than 5000 for duties performed prior to 2017. 

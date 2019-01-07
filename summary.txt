@@ -1,0 +1,164 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         12
+	Longest value:         7 characters
+	Most common values:    None (18x)
+	                       G000553 (2x)
+	                       R000515 (2x)
+	                       B001281 (1x)
+	                       C001059 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         13
+	Longest value:         29 characters
+	Most common values:    OFFICE OF THE MINORITY LEADER (17x)
+	                       HON. AL GREEN (2x)
+	                       HON. BOBBY L. RUSH (2x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (1x)
+	                       HON. JOYCE BEATTY (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (31x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         30 characters
+	Most common values:    GENERAL EXPENDITURES (17x)
+	                       OFFICIAL EXPENSES OF MEMBERS (13x)
+	                       SALARIES  OFFICERS & EMPLOYEES (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (31x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (31x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (31x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (31x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         30
+	Longest value:         21 characters
+	Most common values:    ELLIS JACQUELINE A. (2x)
+	                       AGUILAR JORGE A (1x)
+	                       BEHRINGER CAROLINE (1x)
+	                       BERRET EMILY C (1x)
+	                       BLOOM MICHAEL T. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2015-12-01
+	Largest value:         2016-12-01
+	Most common values:    2016-11-01 (20x)
+	                       2016-12-01 (8x)
+	                       2016-09-01 (2x)
+	                       2015-12-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         7
+	Smallest value:        2015-12-31
+	Largest value:         2016-12-30
+	Most common values:    2016-11-01 (17x)
+	                       2016-12-30 (4x)
+	                       2016-11-30 (3x)
+	                       2016-12-01 (3x)
+	                       2016-09-21 (2x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         27
+	Longest value:         51 characters
+	Most common values:    SPECIAL ASST TO THE LEADER (2x)
+	                       SENIOR ADVISOR (2x)
+	                       CHIEF OF STAFF (2x)
+	                       CHIEF OF STAFF (OTHER COMPENSATION) (2x)
+	                       PRESS SEC/DIR HISPANIC MEDIA (1x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         30
+	Smallest value:        5,133
+	Largest value:         14,033.42
+	Sum:                   289,206.32
+	Mean:                  9,329.236
+	Median:                9,208.33
+	StDev:                 2,818.416
+	Most common values:    13,583.33 (2x)
+	                       10,250 (1x)
+	                       14,033.33 (1x)
+	                       9,833.33 (1x)
+	                       13,958.08 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,015
+	Largest value:         2,016
+	Sum:                   62,495
+	Mean:                  2,015.968
+	Median:                2,016
+	StDev:                 0.18
+	Most common values:    2,016 (30x)
+	                       2,015 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         30
+	Longest value:         21 characters
+	Most common values:    ELLIS JACQUELINE A. (2x)
+	                       AGUILAR JORGE A (1x)
+	                       BEHRINGER CAROLINE (1x)
+	                       BERRET EMILY C (1x)
+	                       BLOOM MICHAEL T. (1x)
+
+Row count: 31
