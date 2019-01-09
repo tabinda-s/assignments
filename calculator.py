@@ -1,12 +1,16 @@
 def add(a,b):
 	return a+b
-	pass
+	
 def subtract(a,b):
 	return a-b
-	pass
+	
 def multiply(a,b):
 	return a*b 
-	pass
+
 def divide(a,b):
 	return a/b
-	pass
+
+print("I'm going use the calculator functions to multiply 5 and 6")
+x = multiply(5,6)
+
+print(x)
