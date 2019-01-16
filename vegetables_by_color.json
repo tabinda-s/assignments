@@ -1,0 +1,34 @@
+{
+  "purple": [
+    {
+      "name": "eggplant",
+      "color": "purple"
+    }
+  ],
+  "red": [
+    {
+      "name": "tomato",
+      "color": "red"
+    }
+  ],
+  "green": [
+    {
+      "name": "okra",
+      "color": "green"
+    },
+    {
+      "name": "arugula",
+      "color": "green"
+    },
+    {
+      "name": "broccoli",
+      "color": "green"
+    }
+  ],
+  "yellow": [
+    {
+      "name": "corn",
+      "color": "yellow"
+    }
+  ]
+}
